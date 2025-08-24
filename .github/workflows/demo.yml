@@ -43,4 +43,4 @@ jobs:
       - name: Output Contents
         run: ls -la
       - name: Deploy
-        run: npm run deploy
+        run: echo "Deploying website..."
